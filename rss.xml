@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hp]]></title>
+        <description><![CDATA[hp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 08 Aug 2015 01:08:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Irmão de Dirceu diz que recebeu R$ 30 mil mensais de lobista na Petrobras]]></title>
+            <description><![CDATA[<article><h1>Irmão de Dirceu diz que recebeu R$ 30 mil mensais de lobista na Petrobras</h1><p>O irmão do ex-ministro da Casa Civil José Dirceu, Luiz Eduardo de Oliveira e Silva, reconheceu em depoimento prestado à Operação Lava Jato que recebeu entre 2012 e 2013 "cerca de R$ 30 mil" mensais do lobista Milton Pascowitch, que atuava como intermediário do pagamento de propinas em negócios na Petrobras.</p><img src="http://f.i.uol.com.br/folha/poder/images/15215212.jpeg"></article>]]></description>
+            <link>http://www1.folha.uol.com.br/poder/2015/08/1666115-irmao-de-dirceu-recebeu-r-30-mil-mensais-de-lobista-na-petrobras.shtml</link>
+            <guid isPermaLink="false">fca7cb04-8d16-43a1-9738-2a226d451e12</guid>
+            <pubDate>Sat, 08 Aug 2015 01:07:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
