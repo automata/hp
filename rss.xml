@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[hp]]></title>
         <description><![CDATA[hp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 08 Aug 2015 01:08:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 13 Aug 2015 20:07:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iuan se desvaloriza mais, e China alimenta temor de 'guerra cambial']]></title>
+            <description><![CDATA[<article><h1>Iuan se desvaloriza mais, e China alimenta temor de 'guerra cambial'</h1><p>O iuan chinês atingiu a mínima em quatro anos nesta quarta-feira (12), recuando pelo segundo dia consecutivo, após autoridades adotarem uma nova desvalorização da moeda, em uma manobra que alimentou temores de uma guerra cambial mundial e acusações de que Pequim está auxiliando injustamente seus exportadores, que vêm enfrentando dificuldades.</p><img src="http://s2.glbimg.com/LgwTF0LDNYmgpQ-Fh6Zd0Oy0np8=/1200x630/s03.video.glbimg.com/320x200/4386554.jpg"></article>]]></description>
+            <link>http://g1.globo.com/economia/mercados/noticia/2015/08/iuan-se-desvaloriza-mais-e-china-alimenta-temor-de-guerra-cambial.html</link>
+            <guid isPermaLink="false">3c1c4822-40c4-4633-ad1d-b9ea0f1beda0</guid>
+            <pubDate>Thu, 13 Aug 2015 20:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Irmão de Dirceu diz que recebeu R$ 30 mil mensais de lobista na Petrobras]]></title>
             <description><![CDATA[<article><h1>Irmão de Dirceu diz que recebeu R$ 30 mil mensais de lobista na Petrobras</h1><p>O irmão do ex-ministro da Casa Civil José Dirceu, Luiz Eduardo de Oliveira e Silva, reconheceu em depoimento prestado à Operação Lava Jato que recebeu entre 2012 e 2013 "cerca de R$ 30 mil" mensais do lobista Milton Pascowitch, que atuava como intermediário do pagamento de propinas em negócios na Petrobras.</p><img src="http://f.i.uol.com.br/folha/poder/images/15215212.jpeg"></article>]]></description>
