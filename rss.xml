@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hp_avaliação imóveis]]></title>
+        <description><![CDATA[hp_avaliação imóveis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Aug 2016 17:14:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[			 									 									 									 ]]></title>
+            <description><![CDATA[<article><h1>			 									 									 									 </h1><p>www.avalieseuimovel.online</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463ed339-363d-4b5d-9695-cc7b1898d813.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/463ed339-363d-4b5d-9695-cc7b1898d813.jpg</link>
+            <guid isPermaLink="false">50402ae4-fb34-420d-9a7e-cf1e65b15bcc</guid>
+            <pubDate>Sat, 20 Aug 2016 17:14:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
