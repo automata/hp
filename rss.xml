@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[hp_avaliação imóveis]]></title>
         <description><![CDATA[hp_avaliação imóveis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 17:14:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Aug 2016 21:00:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709135a-bbad-4e63-bd46-47f000328167.jpg" alt="Este aplicativo destina-se a obter avalia&ccedil;&atilde;o de mercado para im&oacute;veis a partir de dados alimentados pelo usu&aacute;rio/cliente.">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709135a-bbad-4e63-bd46-47f000328167.jpg</link>
+            <guid isPermaLink="false">eb3920c8-9ffd-404e-8938-6477c37f18a7</guid>
+            <pubDate>Sun, 21 Aug 2016 21:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[			 									 									 									 ]]></title>
             <description><![CDATA[<article><h1>			 									 									 									 </h1><p>www.avalieseuimovel.online</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463ed339-363d-4b5d-9695-cc7b1898d813.jpg"></article>]]></description>
