@@ -1,16 +1,20 @@
-typography_spectrum: 0.5
-style: the-composer
+layout_spectrum: 0.06440326408483088
+typography_spectrum: 0.16983570717275143
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  brandStrength: 0.058440676191821694
+  lightness: 0.4657732823397964
+  saturation: 0.6558510730974376
+  rhythmicContrast: 0.8875009922776371
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.9952
 analytics:
   google: null
   facebook: null
@@ -21,7 +25,4 @@ cta:
   bucket: null
   version: null
 favicon: null
-purpose:
-  - name: shares
-    item: null
-    url: null
+purpose: []
