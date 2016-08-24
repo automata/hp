@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T02:08:27.204Z'
+datePublished: '2016-08-24T23:25:30.195Z'
 sourcePath: _posts/2016-08-21-valor-de-mercado-do-imovel.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b78b8312-b8ae-4ee0-8297-a772d86f507d.jpg
 author: []
 via: {}
-dateModified: '2016-08-24T02:08:11.260Z'
+dateModified: '2016-08-24T23:25:29.398Z'
 title: Hiltor Paulo Patussi Thumé
 publisher: {}
 description: 'Sobre o Autor:'
@@ -22,7 +22,7 @@ _type: MediaObject
 
 ## Hiltor Paulo Patussi Thumé
 
-Arquiteto Urbanista - UFPEL / RS
+Arquiteto/Urbanista/Corretor de Imóvel
 
 Perito Avaliador da Justiça Federal por 10 anos
 
@@ -30,6 +30,4 @@ Professor Universitário por 5 anos
 
 25 anos de expertise no mercado imobiliário
 
-Atuação como Broker (Corretor de Imóvel)
-
-Arquiteto na Caixa Econômica Federal - Atual
+Arquiteto na Caixa Econômica Federal
