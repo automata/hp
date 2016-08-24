@@ -1,22 +1,24 @@
 ---
-description: Entendendo o Mercado Imobiliário
-dateModified: '2016-07-14T14:45:59.587Z'
-datePublished: '2016-08-21T21:00:18.105Z'
-title: ''
+datePublished: '2016-08-24T23:36:04.989Z'
+sourcePath: _posts/2016-08-21-entendendo-o-mercado-imobiliario.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709135a-bbad-4e63-bd46-47f000328167.jpg
 author:
   '0':
     name: hiltor
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709135a-bbad-4e63-bd46-47f000328167.jpg
+via: {}
+dateModified: '2016-08-24T23:36:04.189Z'
+title: ''
+publisher: {}
+description: Entendendo o Mercado Imobiliário
 starred: false
-sourcePath: _posts/2016-08-21-entendendo-o-mercado-imobiliario.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![Este aplicativo destina-se a obter avaliação de mercado para imóveis a partir de dados alimentados pelo usuário/cliente.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709135a-bbad-4e63-bd46-47f000328167.jpg)
+![Esta ferramenta destina-se a obter avaliação de mercado expedita para imóveis a partir de dados alimentados pelo usuário.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709135a-bbad-4e63-bd46-47f000328167.jpg)
 
 **Entendendo o Mercado Imobiliário**
 
